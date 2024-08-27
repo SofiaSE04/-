@@ -1,0 +1,8 @@
+name = 'Sofia'
+print('Name:', name)
+name = 20
+print('Age:',name)
+name = name + 1
+print('New age:',name)
+name = 'True'
+print('Is Student:',name)
