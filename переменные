@@ -1,0 +1,5 @@
+completed_homework = 12
+hours_to_complete = 1.5
+name = 'Python'
+time_for_one_task = 0.125
+print('Курс:',name,", всего задач:",completed_homework,', затрачено часов:',hours_to_complete,', среднее время выполнения:',time_for_one_task,"часа")
