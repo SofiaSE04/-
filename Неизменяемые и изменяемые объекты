@@ -1,0 +1,9 @@
+immutable_var = (1, 'tea', 2, 'qwerty', 3, 'snake', True)
+print(immutable_var)
+#Суть кортежей в их неизменяемости
+mutable_list = [4, 'coffe', 5, 'flafffy']
+print(mutable_list)
+mutable_list.remove(4)
+print(mutable_list)
+mutable_list[2] = 'cat'
+print(mutable_list)
